@@ -1,0 +1,15 @@
+C:\Users\123\source\repos\First Steps In Coding - Lab\Greetings By Name\bin\Debug\net6.0\Greetings By Name.exe
+C:\Users\123\source\repos\First Steps In Coding - Lab\Greetings By Name\bin\Debug\net6.0\Greetings By Name.deps.json
+C:\Users\123\source\repos\First Steps In Coding - Lab\Greetings By Name\bin\Debug\net6.0\Greetings By Name.runtimeconfig.json
+C:\Users\123\source\repos\First Steps In Coding - Lab\Greetings By Name\bin\Debug\net6.0\Greetings By Name.dll
+C:\Users\123\source\repos\First Steps In Coding - Lab\Greetings By Name\bin\Debug\net6.0\Greetings By Name.pdb
+C:\Users\123\source\repos\First Steps In Coding - Lab\Greetings By Name\obj\Debug\net6.0\Greetings By Name.csproj.AssemblyReference.cache
+C:\Users\123\source\repos\First Steps In Coding - Lab\Greetings By Name\obj\Debug\net6.0\Greetings By Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\source\repos\First Steps In Coding - Lab\Greetings By Name\obj\Debug\net6.0\Greetings By Name.AssemblyInfoInputs.cache
+C:\Users\123\source\repos\First Steps In Coding - Lab\Greetings By Name\obj\Debug\net6.0\Greetings By Name.AssemblyInfo.cs
+C:\Users\123\source\repos\First Steps In Coding - Lab\Greetings By Name\obj\Debug\net6.0\Greetings By Name.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\First Steps In Coding - Lab\Greetings By Name\obj\Debug\net6.0\Greetings By Name.dll
+C:\Users\123\source\repos\First Steps In Coding - Lab\Greetings By Name\obj\Debug\net6.0\refint\Greetings By Name.dll
+C:\Users\123\source\repos\First Steps In Coding - Lab\Greetings By Name\obj\Debug\net6.0\Greetings By Name.pdb
+C:\Users\123\source\repos\First Steps In Coding - Lab\Greetings By Name\obj\Debug\net6.0\Greetings By Name.genruntimeconfig.cache
+C:\Users\123\source\repos\First Steps In Coding - Lab\Greetings By Name\obj\Debug\net6.0\ref\Greetings By Name.dll

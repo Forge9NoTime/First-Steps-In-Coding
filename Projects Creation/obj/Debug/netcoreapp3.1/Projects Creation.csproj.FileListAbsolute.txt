@@ -1,0 +1,14 @@
+C:\Users\123\source\repos\First Steps In Coding - Lab\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.exe
+C:\Users\123\source\repos\First Steps In Coding - Lab\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.deps.json
+C:\Users\123\source\repos\First Steps In Coding - Lab\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.runtimeconfig.json
+C:\Users\123\source\repos\First Steps In Coding - Lab\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.runtimeconfig.dev.json
+C:\Users\123\source\repos\First Steps In Coding - Lab\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.dll
+C:\Users\123\source\repos\First Steps In Coding - Lab\Projects Creation\bin\Debug\netcoreapp3.1\Projects Creation.pdb
+C:\Users\123\source\repos\First Steps In Coding - Lab\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.csproj.AssemblyReference.cache
+C:\Users\123\source\repos\First Steps In Coding - Lab\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\source\repos\First Steps In Coding - Lab\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.AssemblyInfoInputs.cache
+C:\Users\123\source\repos\First Steps In Coding - Lab\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.AssemblyInfo.cs
+C:\Users\123\source\repos\First Steps In Coding - Lab\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\First Steps In Coding - Lab\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.dll
+C:\Users\123\source\repos\First Steps In Coding - Lab\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.pdb
+C:\Users\123\source\repos\First Steps In Coding - Lab\Projects Creation\obj\Debug\netcoreapp3.1\Projects Creation.genruntimeconfig.cache
