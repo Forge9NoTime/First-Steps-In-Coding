@@ -1,0 +1,15 @@
+C:\Users\123\source\repos\First Steps In Coding - Lab\First Steps In Coding - Lab\bin\Debug\net6.0\Hello SoftUni.exe
+C:\Users\123\source\repos\First Steps In Coding - Lab\First Steps In Coding - Lab\bin\Debug\net6.0\Hello SoftUni.deps.json
+C:\Users\123\source\repos\First Steps In Coding - Lab\First Steps In Coding - Lab\bin\Debug\net6.0\Hello SoftUni.runtimeconfig.json
+C:\Users\123\source\repos\First Steps In Coding - Lab\First Steps In Coding - Lab\bin\Debug\net6.0\Hello SoftUni.dll
+C:\Users\123\source\repos\First Steps In Coding - Lab\First Steps In Coding - Lab\bin\Debug\net6.0\Hello SoftUni.pdb
+C:\Users\123\source\repos\First Steps In Coding - Lab\First Steps In Coding - Lab\obj\Debug\net6.0\Hello SoftUni.csproj.AssemblyReference.cache
+C:\Users\123\source\repos\First Steps In Coding - Lab\First Steps In Coding - Lab\obj\Debug\net6.0\Hello SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\source\repos\First Steps In Coding - Lab\First Steps In Coding - Lab\obj\Debug\net6.0\Hello SoftUni.AssemblyInfoInputs.cache
+C:\Users\123\source\repos\First Steps In Coding - Lab\First Steps In Coding - Lab\obj\Debug\net6.0\Hello SoftUni.AssemblyInfo.cs
+C:\Users\123\source\repos\First Steps In Coding - Lab\First Steps In Coding - Lab\obj\Debug\net6.0\Hello SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\First Steps In Coding - Lab\First Steps In Coding - Lab\obj\Debug\net6.0\Hello SoftUni.dll
+C:\Users\123\source\repos\First Steps In Coding - Lab\First Steps In Coding - Lab\obj\Debug\net6.0\refint\Hello SoftUni.dll
+C:\Users\123\source\repos\First Steps In Coding - Lab\First Steps In Coding - Lab\obj\Debug\net6.0\Hello SoftUni.pdb
+C:\Users\123\source\repos\First Steps In Coding - Lab\First Steps In Coding - Lab\obj\Debug\net6.0\Hello SoftUni.genruntimeconfig.cache
+C:\Users\123\source\repos\First Steps In Coding - Lab\First Steps In Coding - Lab\obj\Debug\net6.0\ref\Hello SoftUni.dll
