@@ -1,0 +1,15 @@
+C:\Users\123\source\repos\First Steps In Coding - Lab\Rectangle Area\bin\Debug\net6.0\Rectangle Area.exe
+C:\Users\123\source\repos\First Steps In Coding - Lab\Rectangle Area\bin\Debug\net6.0\Rectangle Area.deps.json
+C:\Users\123\source\repos\First Steps In Coding - Lab\Rectangle Area\bin\Debug\net6.0\Rectangle Area.runtimeconfig.json
+C:\Users\123\source\repos\First Steps In Coding - Lab\Rectangle Area\bin\Debug\net6.0\Rectangle Area.dll
+C:\Users\123\source\repos\First Steps In Coding - Lab\Rectangle Area\bin\Debug\net6.0\Rectangle Area.pdb
+C:\Users\123\source\repos\First Steps In Coding - Lab\Rectangle Area\obj\Debug\net6.0\Rectangle Area.csproj.AssemblyReference.cache
+C:\Users\123\source\repos\First Steps In Coding - Lab\Rectangle Area\obj\Debug\net6.0\Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\source\repos\First Steps In Coding - Lab\Rectangle Area\obj\Debug\net6.0\Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\123\source\repos\First Steps In Coding - Lab\Rectangle Area\obj\Debug\net6.0\Rectangle Area.AssemblyInfo.cs
+C:\Users\123\source\repos\First Steps In Coding - Lab\Rectangle Area\obj\Debug\net6.0\Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\First Steps In Coding - Lab\Rectangle Area\obj\Debug\net6.0\Rectangle Area.dll
+C:\Users\123\source\repos\First Steps In Coding - Lab\Rectangle Area\obj\Debug\net6.0\refint\Rectangle Area.dll
+C:\Users\123\source\repos\First Steps In Coding - Lab\Rectangle Area\obj\Debug\net6.0\Rectangle Area.pdb
+C:\Users\123\source\repos\First Steps In Coding - Lab\Rectangle Area\obj\Debug\net6.0\Rectangle Area.genruntimeconfig.cache
+C:\Users\123\source\repos\First Steps In Coding - Lab\Rectangle Area\obj\Debug\net6.0\ref\Rectangle Area.dll
